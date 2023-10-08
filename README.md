@@ -1,5 +1,5 @@
 # scrapbook-ext
-scrapbook extensions
+Extensions for [scrapbook](https://github.com/nteract/scrapbook)
 
 ## TODOs
 - dill encoder

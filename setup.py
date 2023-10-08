@@ -6,7 +6,7 @@ import setuptools
 setuptools.setup(
     name='scrapbook-ext',
     version='0.0.0a',
-    description='scrapbook extensions',
+    description='Extensions for scrapbook',
     python_requires='>=3.6',
     packages=['scrapbook_ext'],
     package_dir={

@@ -11,7 +11,7 @@ on:
 
 jobs:
   publish:
-    runs-on: debian-latest
+    runs-on: ubuntu-latest
     permissions:
       # IMPORTANT: this permission is mandatory for trusted publishing
       id-token: write
